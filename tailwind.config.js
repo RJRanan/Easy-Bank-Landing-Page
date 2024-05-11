@@ -12,6 +12,9 @@ export default {
         "grayish-blue": "hsl(233, 8%, 62%)",
         "dark-blue": "hsl(233, 26%, 24%)",
       },
+      backgroundImage: {
+        introDesktop: "url(src/assets/design/desktop-design.jpg)",
+      },
     },
   },
   plugins: [],
