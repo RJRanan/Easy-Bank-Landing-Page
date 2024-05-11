@@ -1,14 +1,15 @@
 import Nav from "./components/Nav";
 import Hero from "./sections/Hero";
-import "./index.css";
+import Services from "./sections/Services";
 
 import "../src/index.css";
 
 function App() {
   return (
-    <main className="relative w-full">
+    <main className="relative w-screen">
       <Nav />
       <Hero />
+      <Services />
     </main>
   );
 }

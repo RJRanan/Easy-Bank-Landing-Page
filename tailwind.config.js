@@ -11,6 +11,8 @@ export default {
         "bright-cyan": "hsl(192, 70%, 51%)",
         "grayish-blue": "hsl(233, 8%, 62%)",
         "dark-blue": "hsl(233, 26%, 24%)",
+        "light-grayish-blue": "hsl(220, 16%, 96%)",
+        "very-light-gray": "hsl(0, 0%, 98%)",
       },
       backgroundImage: {
         introDesktop: "url(src/assets/design/desktop-design.jpg)",

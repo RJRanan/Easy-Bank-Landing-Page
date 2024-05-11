@@ -9,7 +9,7 @@ const Nav = () => {
   const [open, setOpen] = useState(false);
 
   return (
-    <header className="bg-white w-full justify-center items-center fixed top-0 left-0 ">
+    <header className="bg-white w-full justify-center items-center fixed top-0 left-0 z-50">
       <div className="w-full flex md:justify-evenly justify-between items-center py-8 md:px-0 px-8 gap-3 duration-500 ">
         <div>
           <a href="#">
