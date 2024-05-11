@@ -14,7 +14,7 @@ const Services = () => {
         </div>
       </div>
 
-      <div className="flex justify-between w-full gap-10">
+      <div className="flex flex-wrap justify-between w-full gap-10">
         {services.map((service) => (
           <div key={service.id}>
             <Cards

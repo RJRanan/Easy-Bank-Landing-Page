@@ -16,6 +16,7 @@ import imageCurrency from "../images/image-currency.jpg";
 import imageMockups from "../images/image-mockups.png";
 import imagePlane from "../images/image-plane.jpg";
 import imageRestaurant from "../images/image-restaurant.jpg";
+import imageHero from "../images/hero-img.png";
 
 export {
   introDesktop,
@@ -36,4 +37,5 @@ export {
   imageMockups,
   imagePlane,
   imageRestaurant,
+  imageHero,
 };
